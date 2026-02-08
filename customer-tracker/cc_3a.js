@@ -1,4 +1,4 @@
-console.log(`3a Customer Records Tracker - Andrew Marello`);
+console.log(`Hello! This is coding_challenge_3a - Customer Records Tracker - Andrew Marello`);
 
 // Step 2: Create Customer Records
 let customers = [
